@@ -1,2 +1,7 @@
 # Data Science Portfolio
-This is just a test
+This is portfolio that contains data science projects from academic, and self-learning.
+
+--------------------------------------------------------------------------------------------------------------------------------------
+#Contents
+
+
